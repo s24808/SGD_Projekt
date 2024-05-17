@@ -1,0 +1,1 @@
+Tekstury użyte w projektcie
