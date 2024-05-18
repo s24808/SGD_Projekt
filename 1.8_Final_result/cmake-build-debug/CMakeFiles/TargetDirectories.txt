@@ -1,0 +1,3 @@
+C:/Users/Filip/CLionProjects/Projekt_SGD/cmake-build-debug/CMakeFiles/Projekt_SGD.dir
+C:/Users/Filip/CLionProjects/Projekt_SGD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filip/CLionProjects/Projekt_SGD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
